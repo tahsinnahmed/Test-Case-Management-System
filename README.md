@@ -1,6 +1,6 @@
 # Test Case Management System
 
-## Test Plan – SauceDemo Web App Functional Testing
+## Test Case Planning – SauceDemo Web App Functional Testing
 
 ## What is a Test Plan?
 
