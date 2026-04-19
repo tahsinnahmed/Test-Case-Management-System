@@ -30,8 +30,6 @@ The Test Plan helps to:
 
 ## Test Plan in This Project
 
----
-
 For the **SauceDemo Web App Testing** project, the Test Plan includes all functional test scenarios related to the application.
 
 ### Test Plan Name:
