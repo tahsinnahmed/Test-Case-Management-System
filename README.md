@@ -37,11 +37,34 @@ For the **SauceDemo Web App Testing** project, the Test Plan includes all functi
 
 ---
 
+## Test Case Results
+
+The following table presents the execution results of all test cases performed for the SauceDemo Web Application. It includes test case ID, description, status, priority, environment, and test data used during execution.
+
+| Test Case ID | Test Case Description                                   | Status | Priority |   Category  |    Author    |    Tester    |
+|-------------|----------------------------------------------------------|--------|----------|-------------|--------------|--------------|
+| TC-40041    | Valid login with correct credentials                     | Pass   | High     | --default-- |  hack4tahsin |  hack4tahsin |
+| TC-40042    | Invalid login with wrong credentials                     | Pass   | High     | --default-- |  hack4tahsin |  hack4tahsin |
+| TC-40043    | Add product to cart from inventory page                  | Pass   | High     | --default-- |  hack4tahsin |  hack4tahsin |
+| TC-40044    | View added products in cart                              | Pass   | High     | --default-- |  hack4tahsin |  hack4tahsin |
+| TC-40045    | Proceed to checkout from cart                            | Failed | Medium   | --default-- |  hack4tahsin |  hack4tahsin |
+
+### Summary
+
+- Total Test Cases: **5**  
+- Passed: **4**  
+- Failed: **1**  
+- Pass Rate: **80%**
+
+This test execution demonstrates functional validation of the SauceDemo application using structured test cases with clear pass/fail reporting and traceable test data.
+
+<img width="1860" height="892" alt="Test Cases" src="https://github.com/user-attachments/assets/90d5bd11-21ac-4de4-8a45-2d52392bbaa8" />
+
+---
+
 ## Scope of Testing
 
 The Test Plan covers the following modules:
-
----
 
 ### Login Functionality
 - Valid login  
@@ -70,7 +93,6 @@ The Test Plan covers the following modules:
 
 <p align="center">
 <img width="900" alt="TC-04" src="https://github.com/user-attachments/assets/66b1fbbf-5f36-4899-a78d-57cc697acdc1" />
-<img width="900" alt="TC-05" src="https://github.com/user-attachments/assets/66d8f794-a04b-477e-9f48-2bd7b6886080" />
 </p>
 
 ---
@@ -80,18 +102,7 @@ The Test Plan covers the following modules:
 - Complete purchase  
 
 <p align="center">
-<img width="900" alt="TC-06" src="https://github.com/user-attachments/assets/3d69da0a-aa0b-4b32-87c8-a32e2b5149e8" />
-<img width="900" alt="TC-07" src="https://github.com/user-attachments/assets/5bdfac21-bf57-4fd9-a50b-7d4f156624c3" />
-</p>
-
----
-
-### Logout Functionality
-- User is logged out successfully  
-- Redirected to login page  
-
-<p align="center">
-<img width="900" alt="TC-08" src="https://github.com/user-attachments/assets/2b13b17c-3608-48bf-8737-27af929f09ed" />
+<img width="1903" height="886" alt="TC-05" src="https://github.com/user-attachments/assets/93dccdee-264b-44ff-9297-2857c9b51507" />
 </p>
 
 ---
