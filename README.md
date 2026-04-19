@@ -42,12 +42,12 @@ For the **SauceDemo Web App Testing** project, the Test Plan includes all functi
 The following table presents the execution results of all test cases performed for the SauceDemo Web Application. It includes test case ID, description, status, priority, environment, and test data used during execution.
 
 | Test Case ID | Test Case Description                                   | Status | Priority |   Category  |    Author    |    Tester    |
-|-------------|----------------------------------------------------------|--------|----------|-------------|--------------|--------------|
-| TC-40041    | Valid login with correct credentials                     | Pass   | High     | --default-- |  hack4tahsin |  hack4tahsin |
-| TC-40042    | Invalid login with wrong credentials                     | Pass   | High     | --default-- |  hack4tahsin |  hack4tahsin |
-| TC-40043    | Add product to cart from inventory page                  | Pass   | High     | --default-- |  hack4tahsin |  hack4tahsin |
-| TC-40044    | View added products in cart                              | Pass   | High     | --default-- |  hack4tahsin |  hack4tahsin |
-| TC-40045    | Proceed to checkout from cart                            | Failed | Medium   | --default-- |  hack4tahsin |  hack4tahsin |
+|--------------|---------------------------------------------------------|--------|----------|-------------|--------------|--------------|
+|   TC-40041   | Valid login with correct credentials                    |  Pass  |   High   |   default   |  hack4tahsin |  hack4tahsin |
+|   TC-40042   | Invalid login with wrong credentials                    |  Pass  |   High   |   default   |  hack4tahsin |  hack4tahsin |
+|   TC-40043   | Add product to cart from inventory page                 |  Pass  |   High   |   default   |  hack4tahsin |  hack4tahsin |
+|   TC-40044   | View added products in cart                             |  Pass  |   High   |   default   |  hack4tahsin |  hack4tahsin |
+|   TC-40045   | Proceed to checkout from cart                           | Failed |  Medium  |   default   |  hack4tahsin |  hack4tahsin |
 
 ### Summary
 
