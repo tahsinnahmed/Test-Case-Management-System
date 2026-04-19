@@ -2,11 +2,12 @@
 
 ## Test Case Planning – SauceDemo Web App Functional Testing
 
-This test case is planned based on the following project <a href= https://github.com/tahsinnahmed/SauceDemo-Web-App-Testing.git>
+The test cases in this project are designed based on the SauceDemo Web App Testing repository:  
+[SauceDemo Web App Testing](https://github.com/tahsinnahmed/SauceDemo-Web-App-Testing.git)
 
 ---
 
-## 🧾 What is a Test Plan?
+## What is a Test Plan?
 
 A Test Plan is a formal document that defines the scope, objectives, strategy, resources, and schedule of testing activities for a software project. It serves as a blueprint to ensure that all testing efforts are well-structured, organized, and aligned with project requirements.
 
